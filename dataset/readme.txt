@@ -1,0 +1,1 @@
+This folder contains the raw dataset used to train the neural network
